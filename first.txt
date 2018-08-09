@@ -1,1 +1,2 @@
-this is first file in the new repositor
+this is first file in the new repositor.
+This change is made from github
