@@ -1,1 +1,2 @@
+ Trying to view conflict case
 this is first file in the new repositor
